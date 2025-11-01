@@ -3,7 +3,6 @@
 A simple and interactive To-Do List web application built using **HTML**, **CSS**, and **JavaScript**.  
 It allows users to add, mark, and delete tasks — helping manage daily goals efficiently.
 
----
 
 ## 🚀 Features
 
@@ -13,7 +12,6 @@ It allows users to add, mark, and delete tasks — helping manage daily goals ef
 - 💾 Saves tasks automatically in your browser using **localStorage**  
 - 🖥️ Clean and responsive design  
 
----
 
 ## 🛠️ Technologies Used
 
@@ -21,7 +19,6 @@ It allows users to add, mark, and delete tasks — helping manage daily goals ef
 - **CSS3** – Styling and layout  
 - **JavaScript (Vanilla JS)** – App logic and interactivity  
 
----
 
 ## 📦 How to Run the Project
 
